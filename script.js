@@ -22,7 +22,7 @@ window.onload = function() {
   var baz = document.getElementById('baz');
   baz.onmouseover = function() {
     document.getElementById('style-a').disabled = true;
-    document.getElementById('styel-b').disabled = false;
+    document.getElementById('style-b').disabled = false;
   }
   baz.onmouseout = function() {
     document.getElementById('style-a').disabled = false;
