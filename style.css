@@ -1,0 +1,14 @@
+.foo-before {
+  background-color: white;
+  color: black;
+}
+
+.foo-after {
+  background-color: red;
+  color: blue;
+}
+
+.bar {
+  background-color: yellow;
+  color: green;
+}
